@@ -73,6 +73,6 @@ information.
 License
 =======
 
-This repository itself is licensed under the Creative Commons Attribution 4.0
-International license (CC-BY-4.0), a copy of which can be found in the LICENSE
-file or at http://creativecommons.org/licenses/by/4.0/
+The contents of this repository are licensed under the Creative Commons
+Attribution 4.0 International license (CC-BY-4.0), a copy of which can be found
+in the LICENSE file or at http://creativecommons.org/licenses/by/4.0/

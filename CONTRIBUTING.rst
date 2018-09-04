@@ -1,5 +1,9 @@
 .. SPDX-License-Identifier: CC-BY-4.0
 
+This file is licensed under the Creative Commons Attribution 4.0 International
+license (CC-BY-4.0), a copy of which can be found in the LICENSE file or at
+http://creativecommons.org/licenses/by/4.0/
+
 ==============
  Contributing
 ==============
