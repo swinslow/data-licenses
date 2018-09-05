@@ -29,7 +29,7 @@ License information
 ===================
 
 The project license is `CC-BY-4.0
-<https://spdx.org/licenses/BSD-3-Clause.html>`_, Creative Commons Attribution
+<http://creativecommons.org/licenses/by/4.0/>`_, Creative Commons Attribution
 4.0 International. Copyright in contributions to the project is retained by the
 contributors, and a license to the contribution is granted under CC-BY-4.0.
 
