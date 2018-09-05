@@ -454,6 +454,9 @@ ShareAlike trigger:
 
 :ODbL-1.0:
 
+    Publicly Conveying this Database, any Derivative Database, or the Database
+    as part of a Collective Database.
+
     Public Use of any Derivative Database. This includes Public Use of a
     Produced Work created from a Derivative Database.
 
@@ -462,7 +465,9 @@ ShareAlike trigger:
 
     ShareAlike requirements are *not* triggered by: (a) incorporating the
     Database or a Derivative Database into a Collective Database; (b)
-    [non-Publicly] using the Database, a Derivative Database or a Collective Database to create a Produced Work; or (c) use of a Derivative Database internally within an organisation.
+    [non-Publicly] using the Database, a Derivative Database or a Collective
+    Database to create a Produced Work; or (c) use of a Derivative Database
+    internally within an organisation.
 
     *4.4(a), 4.4(b), 4.4(c), 4.5*
 
@@ -491,10 +496,11 @@ ShareAlike effects:
 
 :ODbL-1.0:
 
-    Any Derivative Database that is Used Publicly must be only under the terms
-    of the ODbL-1.0; a later version of the ODbL-1.0 that is similar in spirit;
-    or a compatible license. A licensor may authorise a proxy to determine
-    compatibility.
+    If You (a) Publicly Convey any Database, Derivative Database, or the
+    Database as part of a Collective Database; or (b) Publicly Use any
+    Derivative Database; then You must do so only under the terms of the
+    ODbL-1.0; a later version of the ODbL that is similar in spirit; or a
+    compatible license.
 
     If You Publicly Use a Derivative Database, ora Produced Work from a
     Derivative Database, then You must also offer to recipients a copy in a
@@ -502,7 +508,9 @@ ShareAlike effects:
     file containing all of the alterations or the method of making the
     alterations, including any additional contents.
 
-    The Derivative Database or file must be available at no more than a reasonable production cost for physical distributions, or free of charge if distributed over the internet.
+    The Derivative Database or file must be available at no more than a
+    reasonable production cost for physical distributions, or free of charge if
+    distributed over the internet.
 
     *4.4(a), 4.6*
 
